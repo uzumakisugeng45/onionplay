@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uzumakisugeng45.github.io/onionplay/sitemap.xml
